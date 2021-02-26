@@ -1,4 +1,9 @@
 <html>
+   <head>
+      <title>
+         Performance Task
+      </title>
+   </head>
 <frameset cols="30%,30%,30%>
    <frame src="html1.html">
    <frame src="html1.html">
